@@ -6,7 +6,7 @@ Pre requisites:
 https://learn.hashicorp.com/terraform/getting-started/install.html
 terraform init
 
-2. To build infrastructure and provision, save deleteAWSInfra.tf outside your working directory
+2. To build infrastructure and provision, save other *.tf files outside your working directory
 3.Run the below command from command prompt
 terraform apply
 
@@ -14,6 +14,6 @@ terraform apply
 5. terraform apply
 
 
-AWS cloud Formation:
-1. Install and run Azure
+Create instance on Azure:
+1. Place azureFirst.tf in working directory and save other *.tf files outside your working directory
 2.Run terraform apply
