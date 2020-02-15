@@ -12,3 +12,8 @@ terraform apply
 
 4. To destroy infrastructure,  place ec2Create_first.tf outside your working directory
 5. terraform apply
+
+
+AWS cloud Formation:
+1. Install and run Azure
+2.Run terraform apply
